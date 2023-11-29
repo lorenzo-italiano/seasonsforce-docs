@@ -1,0 +1,14 @@
+fr.polytech
+fr.polytech.annotation
+fr.polytech.config
+fr.polytech.constant
+fr.polytech.model
+fr.polytech.model.aux
+fr.polytech.model.request
+fr.polytech.model.response
+fr.polytech.model.response.user
+fr.polytech.model.response.user.detailed
+fr.polytech.model.response.user.plan
+fr.polytech.restcontroller
+fr.polytech.service
+fr.polytech.Util
