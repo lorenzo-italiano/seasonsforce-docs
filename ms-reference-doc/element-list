@@ -1,0 +1,8 @@
+fr.polytech
+fr.polytech.annotation
+fr.polytech.config
+fr.polytech.model
+fr.polytech.model.user
+fr.polytech.repository
+fr.polytech.restcontroller
+fr.polytech.service

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.polytech"},{"l":"fr.polytech.annotation"},{"l":"fr.polytech.config"},{"l":"fr.polytech.model"},{"l":"fr.polytech.model.user"},{"l":"fr.polytech.repository"},{"l":"fr.polytech.restcontroller"},{"l":"fr.polytech.service"}];updateSearchResults();
